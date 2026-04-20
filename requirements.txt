@@ -3,6 +3,3 @@ urllib3>=1.26.0
 colorama>=0.4.6
 numpy>=1.21.0
 scipy>=1.7.0
-# Para ML avanzado (futuro):
-# tensorflow>=2.10.0
-# scikit-learn>=1.0.0
